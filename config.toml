@@ -1,0 +1,4 @@
+baseURL = "http://boiny.github.io/"
+languageCode = "en-us"
+title = "Boiny Site"
+theme = "ananke"
